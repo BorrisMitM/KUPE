@@ -1,0 +1,20 @@
+Moin!
+
+Erschreck dich nicht - das Material ist erstmal Placeholder, bis ich die Textur gepainted habe.
+
+Karen zuerst, weil ich Angst habe, dass unsere Ideen wegen dem Rope nicht flüssig funktionieren.
+
+Karen hat nen detached-en Bone, "Bip001 R Hand", an dem hängen drei Claw-Bones, die sich mit dem Bone bewegen. 
+Die Claws selber sind auch im Model detached. Ich hab leider keinen Peil, wie du das gecoded hast, also habe ich erstmal nur zwei Ideen -
+
+1.) Wenn du den Bone moven kannst, tu genau das? Dann kannst du weiter den Ray zeichnen zwischen Bip001 R Hand und Bip001 R Forearm - Problem dabei
+könnte nur sein, dass der Pivot vom Forearm am Ellenbogen ist? Naja, keine Ahnung halt :D.. dann müssten wir nur die weiße Linie ersetzen.
+Ist das ein Image? Model? 
+
+2.) Ich kann noch für die Action Anis das Model austauschen und den Hakenpart als Extra Model machen? Dann könnte man es wie en extra Objekt 
+benutzen und in Unity moven?
+
+Und wegen dem Schwingen, ich hab mal versuch ne halbwegs neutrale Pose zu machen, damit die Rotation irgendwie in Unity gemacht werden
+kann, aber auch da - keine Ahnung, wie du es gebaut hast.
+
+Tut mir leid, dass es doch nicht früher geklappt hat!

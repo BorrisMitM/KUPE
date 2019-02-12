@@ -1,0 +1,21 @@
+Workflow LevelCreation
+
+1.Duplicate the scene "franzi_blueprint" (ctrl + d) and open the scene.
+
+2.Open TilePalette under Window -> 2D ->TilePlalette.
+
+3.Use Tilemap to draw the level outlines.
+
+4.Place the children of the GameObject "PlayerSpawner" at the locations the characters should spawn.
+
+5.Add Prefabs from folder "Prefabs/TestObstacles".
+
+5.1 spikes can just be placed
+
+5.2 for moving platforms navigate to the MovingPlatform script on the gameObject in the scene(not the Prefab) and fill out the locations.
+
+5.3 the trigger and the door can be placed at different places. hook the door to the trigger by dragging it to the Switch script on the trigger.
+
+5.4 add collectables and an enddoor to the scene. to manipulate the order of collection drag the collectables to the collectables tab on the end door script in the right order.
+
+To test you scene open File -> Build Settings and drag the scene from the project view just under the tutorial scene.
